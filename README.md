@@ -1,4 +1,4 @@
-![alt text](https://github.com/dallasrowling/GlobeStar-WordPress-Theme/blob/main/globestar-readme-logo.png?raw=true)
+![alt text](https://github.com/dallasrowling/GlobeStar-WordPress-Theme/blob/main/WEBSITE%20BUILDER.png?raw=true)
 
 # GlobeStar WordPress Theme
 
