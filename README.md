@@ -7,4 +7,4 @@ GlobeStar was brought into existence with the central goal of providing a simpli
 * Create your own Wiki and documentation website that explores specific subjects and allow visitors to input their own feedback.
 
 ## Purpose
-GlobeStar is definitevely considered "a living theme" whereby it's intention is to remain in continual development as a one-stop solution to any and all functions on the internet. 
+GlobeStar is definitevely considered "a living theme" whereby it's intention is to remain in continual development as a one-stop solution to any and all functions on websites. 
