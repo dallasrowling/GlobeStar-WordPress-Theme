@@ -11,3 +11,7 @@ GlobeStar was brought into existence with the central goal of providing a simpli
 ## Purpose
 
 GlobeStar is definitevely considered "a living theme" whereby it's intention is to remain in continual development as a one-stop solution to any and all functions for websites. 
+
+## Contact
+
+If you're interested in knowing more about the project, feel free to reach out to via email at: djrowling94@gmail.com
