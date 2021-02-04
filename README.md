@@ -1,0 +1,1 @@
+# GlobeStar-WordPress-Theme
