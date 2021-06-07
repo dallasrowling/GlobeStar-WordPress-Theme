@@ -14,4 +14,4 @@ GlobeStar is definitevely considered "a living theme" whereby it's intention is 
 
 ## Contact
 
-If you're interested in knowing more about the project, feel free to reach out to via email at: djrowling94@gmail.com
+If you're interested in knowing more about the project, feel free to reach out to via my email address at: djrowling94@gmail.com
