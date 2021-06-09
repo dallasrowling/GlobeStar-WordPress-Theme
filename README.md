@@ -12,6 +12,10 @@ GlobeStar was brought into existence with the central goal of providing a simpli
 
 GlobeStar is definitevely considered "a living theme" whereby it's intention is to remain in continual development as a one-stop solution to any and all functions for websites. 
 
+## In development
+
+GlobeStar is still in active development and not currently available for download at this time.
+
 ## Contact
 
 If you're interested in knowing more about the project, feel free to reach out to via my email address at: djrowling94@gmail.com
