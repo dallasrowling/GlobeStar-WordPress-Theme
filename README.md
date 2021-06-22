@@ -14,7 +14,7 @@ GlobeStar is definitevely considered "a living theme" whereby it's intention is 
 
 ## In development
 
-GlobeStar is still in active development and not currently available for download at this time.
+GlobeStar is still in active development and not currently available for download at this time but will available in the near future.
 
 ## Contact
 
